@@ -12,6 +12,13 @@
 
 
 
+## O Projeto
+
+<p align="center">
+  <img src="Img/Tema.png" /p> 
+</p>
+
+
 ## Facilitadores do Projeto - Grupo 45
 
 |   ID   | Nome              | Atividade                                                          |
