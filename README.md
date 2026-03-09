@@ -21,11 +21,11 @@
 
 ## Facilitadores do Projeto - Grupo 45
 
-|   ID   | Nome              | Atividade                                                          |
-| ------ | ------------------| ------------------------------------------------------------------ |
-| ASD    | Reinaldo Oliveira |                                                                    |                 
-| ASD    | Douglas Lucena    |                                                                    |
-| ASD    | ASD               |                                                                    |
+|   ID       | Nome              | Atividade                                                          |
+| ---------- | ------------------| ------------------------------------------------------------------ |
+| ASD        | Reinaldo Oliveira |                                                                    |                 
+| 1142184360 | Douglas Lucena    |                                                                    |
+| ASD        | ASD               |                                                                    |
 
 
 ## Cronograma do Projeto
