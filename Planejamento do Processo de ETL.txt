@@ -1,0 +1,14 @@
+Planejamento do Processo de ETL
+Extração (Extract): Os dados serão extraídos de forma automatizada via API do Kaggle, utilizando a biblioteca kagglehub no Python. O dataset escolhido é o "FIFA World Cup 2022: Complete Dataset", que contém os registros detalhados de todas as partidas disputadas na Copa do Mundo do Catar.
+
+Transformação (Transform): A etapa de limpeza e modelagem dos dados será realizada no Python com a biblioteca Pandas. Para garantir a qualidade da análise, aplicaremos os seguintes tratamentos:
+
+Remoção de duplicatas: Uso do método .drop_duplicates() para garantir que nenhuma partida ou registro seja contado duas vezes.
+
+Tratamento de valores nulos: Identificação de campos vazios (NaN) e aplicação de métodos como .dropna() ou .fillna() para limpar as informações faltantes.
+
+Tipagem de dados: Conversão de formatos, como garantir que a coluna com as datas dos jogos seja convertida para o tipo datetime.
+
+Filtro de colunas: Exclusão de colunas irrelevantes para o painel final (ex: nomes de árbitros ou estatísticas muito secundárias), mantendo apenas o necessário (gols, seleções, datas e resultados).
+
+Carga (Load): Após as transformações, o DataFrame final será exportado para um arquivo consolidado chamado fifa2022_dados_limpos.csv. Este arquivo será a fonte de dados oficial e otimizada que alimentará a ferramenta de criação do dashboard.

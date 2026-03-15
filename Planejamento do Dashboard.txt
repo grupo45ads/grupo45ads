@@ -1,0 +1,18 @@
+Planejamento do Dashboard
+Contextualização e Objetivo: O dashboard tem como objetivo apresentar um panorama simples e visual do desempenho das seleções e das estatísticas de gols da Copa do Mundo FIFA 2022.
+
+Métricas e Indicadores Principais (KPIs): Serão utilizados cartões de destaque no topo do painel com as seguintes métricas gerais:
+
+Total de Gols Marcados (Soma de todos os gols do torneio).
+
+Total de Partidas Disputadas (Contagem de jogos).
+
+Média de Gols por Partida (Para entender o ritmo do campeonato).
+
+Visualizações Pretendidas:
+
+Gráfico de Barras: "Top 5 Seleções Artilheiras"  para comparar rapidamente quais países marcaram mais gols.
+
+Gráfico de Linhas: "Gols ao longo do tempo"  para acompanhar a evolução das partidas e ver em quais dias do torneio a rede balançou mais.
+
+Gráfico de Rosca (Donut) ou Tabela: "Resultados das Partidas"  para mostrar a proporção simples de vitórias do mandante, vitórias do visitante e empates.
