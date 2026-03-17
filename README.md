@@ -25,8 +25,8 @@
 | ---------- | ------------------| ------------------------------------------------------------------ |
 | ASD        | Reinaldo Oliveira |                                                                    |                 
 | 1142184360 | Douglas Lucena    |                                                                    |
-| ASD        | Luan Dias         |                                                                        |
-| ASD        | Arthur Medeiros   |                                                                    |
+| ASD        | Luan Dias         |                                                                    |
+| 1141910979 | Arthur Medeiros   |                                                                    |
 
 
 ## Cronograma do Projeto
