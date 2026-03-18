@@ -23,7 +23,7 @@
 
 |   ID       | Nome              | Atividade                                                          |
 | ---------- | ------------------| ------------------------------------------------------------------ |
-| ASD        | Reinaldo Oliveira |                                                                    |                 
+| ASD        | Reinaldo Oliveira |Criação e Organização do repositório, Definição da Base de Dados    |                 
 | 1142184360 | Douglas Lucena    |                                                                    |
 | ASD        | Luan Dias         |                                                                    |
 | 1141910979 | Arthur Medeiros   |                                                                    |
