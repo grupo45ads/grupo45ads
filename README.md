@@ -24,7 +24,7 @@
 |   ID       | Nome              | Atividade                                                          |
 | ---------- | ------------------| ------------------------------------------------------------------ |
 | 1143324654 | Reinaldo Oliveira |Criação e Organização do repositório, Definição da Base de Dados    |               
-| 1142184360 | Douglas Lucena    |                                                                    |
+| 1142184360 | Douglas Lucena    |Organização e Adição da base de dados no repositorio                |
 | ASD        | Luan Dias         |                                                                    |
 | 1141910979 | Arthur Medeiros   |                                                                    |
 
