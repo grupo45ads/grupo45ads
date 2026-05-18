@@ -35,3 +35,30 @@
   <img src="Img/Cronograma.png" /p> 
 </p>
 
+## Visualizações e métricas apresentadas no Dashboard
+
+O dashboard desenvolvido pelo grupo apresenta uma análise interativa dos dados da Copa do Mundo FIFA 2022, permitindo visualizar informações gerais sobre as partidas, os gols, as seleções e as fases da competição.
+
+### Métricas apresentadas
+
+Foram incluídas no dashboard as seguintes métricas principais:
+
+- **Total de partidas analisadas:** indica a quantidade total de jogos presentes na base de dados.
+- **Total de gols marcados:** apresenta a soma de todos os gols registrados nas partidas.
+- **Média de gols por partida:** mostra a média de gols considerando todos os jogos analisados.
+- **Seleção com maior número de gols:** identifica a equipe que mais marcou gols na competição.
+- **Seleção com maior número de vitórias:** apresenta a equipe com melhor desempenho em quantidade de vitórias.
+
+### Visualizações criadas
+
+O dashboard também conta com visualizações gráficas para facilitar a interpretação dos dados:
+
+- **Gráfico de gols por seleção:** compara a quantidade total de gols marcados por cada equipe.
+- **Gráfico de vitórias por seleção:** apresenta o número de vitórias obtidas por cada seleção.
+- **Gráfico de partidas por fase:** mostra a distribuição dos jogos entre as fases da Copa do Mundo.
+- **Tabela interativa dos dados:** permite visualizar as informações da base de dados de forma organizada.
+- **Filtros interativos:** possibilitam selecionar equipes e fases específicas da competição para análise.
+
+### Objetivo das visualizações
+
+As visualizações foram criadas para facilitar a comparação entre as seleções participantes, permitindo observar quais equipes tiveram melhor desempenho ofensivo, maior número de vitórias e maior participação nas diferentes fases da competição. Dessa forma, o dashboard transforma a base de dados em informações mais claras, acessíveis e úteis para análise.
