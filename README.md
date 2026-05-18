@@ -62,3 +62,10 @@ O dashboard também conta com visualizações gráficas para facilitar a interpr
 ### Objetivo das visualizações
 
 As visualizações foram criadas para facilitar a comparação entre as seleções participantes, permitindo observar quais equipes tiveram melhor desempenho ofensivo, maior número de vitórias e maior participação nas diferentes fases da competição. Dessa forma, o dashboard transforma a base de dados em informações mais claras, acessíveis e úteis para análise.
+## Dashboard publicado no Streamlit Cloud
+
+A solução desenvolvida pelo Grupo 45 foi publicada no Streamlit Cloud, permitindo a visualização interativa dos dados da Copa do Mundo FIFA 2022.
+
+Acesse o dashboard pelo link:
+
+🔗 [FIFA World Cup 2022 Dashboard](https://grupo45adsgit-4z3rdfytgvxtfhotf8ssac.streamlit.app/)
