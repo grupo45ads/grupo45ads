@@ -1,4 +1,4 @@
-# **Fifa World Cup 2022: Complete Dataset** ⚽ <img width="175" height="268" alt="image" src="https://github.com/user-attachments/assets/3df5b6e8-362c-42a8-8932-fd93b384a3bb" />
+# **Fifa World Cup 2022: Complete Dataset** ⚽ <img width="175" height="168" alt="image" src="https://github.com/user-attachments/assets/3df5b6e8-362c-42a8-8932-fd93b384a3bb" />
 
 ## Did you all miss the World Cup? 
 ### About the Dataset ###
